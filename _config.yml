@@ -1,0 +1,13 @@
+title: "Jinwook Chang"
+lang: ko
+markdown: kramdown
+collections:
+  essays:
+    output: true
+    permalink: /essays/:name/
+defaults:
+  - scope:
+      path: ""
+      type: essays
+    values:
+      layout: essay
