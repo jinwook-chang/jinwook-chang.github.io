@@ -3,6 +3,11 @@ title: "해석의 위기와 퇴행"
 date: 2026-10-28
 ---
 
+<figure style="margin: 2rem auto; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fernand_Khnopff_-_I_lock_my_door_upon_myself.jpeg" alt="꽃과 조각상이 놓인 실내에서 정면을 응시하는 인물 — 페르낭 크노프의 나는 나 자신에게 문을 잠근다" width="1920" height="972" style="display: block; width: 100%; height: auto;">
+  <figcaption>페르낭 크노프, 《나는 나 자신에게 문을 잠근다》(1891), 노이에 피나코테크 소장. <a href="https://commons.wikimedia.org/wiki/File:Fernand_Khnopff_-_I_lock_my_door_upon_myself.jpeg">Wikimedia Commons</a> · 퍼블릭 도메인.</figcaption>
+</figure>
+
 현대 사회의 퇴행은 현실을 해석하던 틀이 더 이상 안정감을 제공하지 못하는 데서 출발한다고 볼 수 있다. 노력과 보상, 성장과 안정, 진보와 행복을 연결하던 설명이 경험과 어긋날수록 개인은 자신의 위치를 이해하기 어려워진다. 이때 매력적으로 다가오는 것은 더 정교한 설명보다, 자신과 세계를 다시 일관된 모습으로 받아들일 수 있게 해주는 이미지다.
 
   라캉의 상상계는 이미지와의 동일시를 통해 자아가 구성되는 차원이다. 거울단계의 아이는 자신의 몸을 충분히 통제하지 못하면서도 거울 속 통일된 형상을 자신으로 받아들인다. 실제 경험의 불안정함에 앞서 이미지가 완결성을 제공하는 것이다. 상징계의 언어와 규범은 그 이미지가 어떤 의미와 가치를 갖는지를 조직한다.
