@@ -3,6 +3,11 @@ title: "역사를 안다는 확신"
 date: 2026-10-29
 ---
 
+<figure style="max-width: 800px; margin: 2rem auto; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Apotheosis.jpg" alt="황폐한 땅 위에 피라미드처럼 쌓인 해골과 까마귀들" width="1506" height="958" style="display: block; width: 100%; height: auto;">
+  <figcaption>바실리 베레샤긴, 《전쟁의 신격화》(1871), 트레티야코프 미술관 소장. <a href="https://commons.wikimedia.org/wiki/File:Apotheosis.jpg">Wikimedia Commons</a> · 퍼블릭 도메인.</figcaption>
+</figure>
+
 인간의 사고가 물질적·역사적 조건 속에서 형성된다면, 역사를 설명하는 이성도 그 조건에서 자유롭지 않다. 그러나 사회주의의 일부 흐름에서 해방의 전망은 역사의 필연적 결말로 제시되었고, 그 결말을 안다는 확신은 타인의 삶을 조직할 권한으로 이어졌다.
 
 하이에크는 『감각적 질서』에서 인간 정신이 자신의 작동을 완전히 설명하는 데 한계가 있다고 논증했다. 이를 사회에 대한 인식으로 확장하면, 사회를 설명하는 사람 역시 자신이 설명하려는 질서의 일부라는 문제가 남는다. 역사의 원인을 이해하는 것과 그 미래를 의도대로 조직하는 것 사이에는 간격이 있다. 그 간격을 확신으로 메울 때, 이론의 불확실성은 타인이 감당해야 할 위험으로 바뀐다.
@@ -14,5 +19,10 @@ date: 2026-10-29
 역사의 방향을 알고 있다고 믿는 권력에게 반대는 다른 판단보다 진보를 가로막는 장애물로 보이기 쉽다. 현재의 고통은 미래의 해방을 위한 비용으로 계산되고, 그 비용을 치르는 사람들의 거부는 자신의 진정한 이익을 이해하지 못한 결과로 처리된다. 살아 있는 인간의 경험보다 인간을 해방한다는 이론이 더 높은 권위를 얻는다.
 
 이 구조에서는 실패도 확신을 무너뜨리지 못한다. 약속한 결과가 나오지 않으면 방향의 오류보다 실행의 부족과 방해 세력이 지목된다. 피해가 커져도 이론을 수정하기보다 현실을 더 강하게 교정하려 한다. 사회를 충분히 알지 못한다는 한계와 인간이 이론에 다 담기지 않는다는 사실이 함께 부정된다.
+
+<figure style="max-width: 440px; margin: 2rem auto; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Angelus_Novus%2C_1920_-_Paul_Klee.jpg" alt="눈과 입을 크게 벌리고 날개를 펼친 천사의 형상" width="1316" height="1600" style="display: block; width: 100%; height: auto;">
+  <figcaption>파울 클레, 《새로운 천사》(Angelus Novus, 1920), 이스라엘 박물관 소장. <a href="https://commons.wikimedia.org/wiki/File:Angelus_Novus,_1920_-_Paul_Klee.jpg">Wikimedia Commons</a> · 퍼블릭 도메인.</figcaption>
+</figure>
 
 비극은 잘못된 판단에 그치지 않는다. 그 판단을 수정하고 멈출 통로까지 닫는 데 있다. 해방될 미래의 인간을 대신해 말하는 권력이, 지금 고통받는 인간의 목소리를 무지와 저항으로 판정한다. 미래는 아직 도착하지 않았지만, 그 이름으로 요구되는 희생은 현재의 사람들에게 돌아간다.
