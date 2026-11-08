@@ -1,14 +1,1 @@
-# Jinwook Chang · 글
-
-새 글은 [`_articles`](_articles)에 Markdown 파일로 추가한다. 파일 이름은 글 주소가 되며, 첫 줄부터 아래 형식을 쓰면 홈의 글 목록에 자동으로 나타난다.
-
-```markdown
----
-title: "글 제목"
-date: YYYY-MM-DD
----
-
-여기서부터 본문을 쓴다.
-```
-
-`date`에는 한국 시간 기준 작성일을 입력한다. 기존 글의 작성일은 원본 글 저장소의 최초 커밋 날짜를 기준으로 기록했다.
+# Jinwook Chang
