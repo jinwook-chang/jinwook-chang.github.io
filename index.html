@@ -1,17 +1,17 @@
 ---
 layout: default
-title: 글
+title: Articles
 ---
 <section class="intro" aria-label="글 목록">
-  <p class="eyebrow">ESSAYS</p>
+  <p class="eyebrow">Articles</p>
 </section>
 <ol class="essay-list">
-  {% assign essays = site.essays | sort: 'title' %}
-  {% for essay in essays %}
+  {% assign articles = site.articles | sort: 'title' %}
+  {% for article in articles %}
   <li>
-    <h2><a href="{{ essay.url | relative_url }}">{{ essay.title | escape }} <span aria-hidden="true">↗</span></a></h2>
-    {% if essay.date %}<time class="written-date" datetime="{{ essay.date | date: '%Y-%m-%d' }}">{{ essay.date | date: '%Y.%m.%d' }}</time>{% endif %}
-    {% if essay.summary %}<p>{{ essay.summary | escape }}</p>{% endif %}
+    <h2><a href="{{ article.url | relative_url }}">{{ article.title | escape }} <span aria-hidden="true">↗</span></a></h2>
+    {% if article.date %}<time class="written-date" datetime="{{ article.date | date: '%Y-%m-%d' }}">{{ article.date | date: '%Y.%m.%d' }}</time>{% endif %}
+    {% if article.summary %}<p>{{ article.summary | escape }}</p>{% endif %}
   </li>
   {% endfor %}
 </ol>

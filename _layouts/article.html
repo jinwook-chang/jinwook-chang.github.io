@@ -2,7 +2,7 @@
 layout: default
 ---
 <article class="essay">
-  <a class="back" href="{{ '/' | relative_url }}">← 글 목록</a>
+  <a class="back" href="{{ '/' | relative_url }}">← Articles</a>
   <h1>{{ page.title | escape }}</h1>
   {% if page.date %}<p class="essay-date"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time></p>{% endif %}
   {{ content }}

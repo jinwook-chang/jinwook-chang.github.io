@@ -2,12 +2,12 @@ title: "Jinwook Chang"
 lang: ko
 markdown: kramdown
 collections:
-  essays:
+  articles:
     output: true
-    permalink: /essays/:name/
+    permalink: /articles/:name/
 defaults:
   - scope:
       path: ""
-      type: essays
+      type: articles
     values:
-      layout: essay
+      layout: article
