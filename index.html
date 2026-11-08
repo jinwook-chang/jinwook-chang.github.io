@@ -2,16 +2,15 @@
 layout: default
 title: 글
 ---
-<section class="intro" aria-labelledby="writing-title">
+<section class="intro" aria-label="글 목록">
   <p class="eyebrow">ESSAYS</p>
-  <h1 id="writing-title">글</h1>
-  <p>철학, 기술, 그리고 사회에 관한 글.</p>
 </section>
 <ol class="essay-list">
   {% assign essays = site.essays | sort: 'title' %}
   {% for essay in essays %}
   <li>
     <h2><a href="{{ essay.url | relative_url }}">{{ essay.title | escape }} <span aria-hidden="true">↗</span></a></h2>
+    {% if essay.date %}<time class="written-date" datetime="{{ essay.date | date: '%Y-%m-%d' }}">{{ essay.date | date: '%Y.%m.%d' }}</time>{% endif %}
     {% if essay.summary %}<p>{{ essay.summary | escape }}</p>{% endif %}
   </li>
   {% endfor %}
