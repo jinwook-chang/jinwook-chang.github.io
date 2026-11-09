@@ -5,9 +5,10 @@ date: 2026-11-06
 
 인간은 옳고 그름을 판단한 뒤 대상을 받아들인다고 생각한다. 그러나 어떤 대상은 판단이 끝나기도 전에 사랑스러워진다. 이미 애착을 갖게 된 대상의 문제를 따지는 일에는 그것을 잃을 수 있다는 부담이 따른다. 미는 이때 판단의 대상에 머물지 않고, 무엇을 문제 삼고 어디까지 용인할지를 결정하는 힘으로 작용한다.
 
-![장 레옹 제롬, 《배심원 앞의 프리네》, 1861](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jean-L%C3%A9on_G%C3%A9r%C3%B4me%2C_Phryne_revealed_before_the_Areopagus_%281861%29_-_01.jpg)
-
-*장 레옹 제롬, 《배심원 앞의 프리네》, 1861. 함부르크 미술관 소장. 이미지: Wikimedia Commons, 퍼블릭 도메인.*
+<figure style="max-width: 800px; margin: 2rem auto; text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Jean-L%C3%A9on_G%C3%A9r%C3%B4me%2C_Phryne_revealed_before_the_Areopagus_%281861%29_-_01.jpg" alt="배심원 앞에 선 프리네와 재판관들" style="display: block; width: 100%; height: auto;">
+  <figcaption>장 레옹 제롬, 《배심원 앞의 프리네》(1861), 함부르크 미술관 소장. <a href="https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me,_Phryne_revealed_before_the_Areopagus_(1861)_-_01.jpg">Wikimedia Commons</a> · 퍼블릭 도메인.</figcaption>
+</figure>
 
 프리네의 재판을 전하는 고대의 일화는 이러한 역전을 보여준다. 아테나이오스의 『현자들의 향연』에 따르면, 변호인 히페리데스가 프리네의 가슴을 드러내자 재판관들은 연민과 종교적 두려움에 사로잡혀 그녀를 석방했다.[^1] 이 이야기를 미와 판단의 관계로 읽으면, 법정이 따지던 혐의 앞에 아름다운 몸이 새로운 권위를 세운 순간이 드러난다. 그녀를 처벌할 근거를 검토하던 이들이 그녀를 처벌해도 되는지를 두려워하게 된 것이다. 미는 판단의 결론에 영향을 주는 데서 나아가 판단이 이루어지는 조건을 바꾼다.
 
@@ -15,9 +16,10 @@ date: 2026-11-06
 
 에이미 아일랜드와 마야 B. 크로닉의 『Cute Accelerationism』은 귀여움을 인간의 욕망과 정체성을 변형하는 과정으로 다룬다. 이 관점을 기술과 자본주의의 수용 문제로 확장하면, 귀여움이 변화에 대한 저항과 기존 질서에 대한 비판을 부드럽게 우회하는 경로가 보인다. 위협적인 기계의 모습으로 제시되던 미래가 돌보고 싶은 존재의 모습으로 다가올 때, 그것을 멈추려는 행위에는 잔혹하다는 감정이 달라붙을 수 있다. 여기서 귀여움은 기술의 정당성을 논증해야 할 부담을 줄인다. 기술이 허용되어야 하는지를 묻던 사람은 어느새 자신이 애착을 가진 존재를 왜 거부해야 하는지 묻게 된다.
 
-![치이카와 애니메이션 공식 이미지](https://www.anime-chiikawa.jp/images/ogp.jpg)
-
-*『치이카와』 애니메이션 공식 이미지. 출처: 애니메이션 공식 사이트. ©ナガノ／ちいかわ製作委員会. *
+<figure style="max-width: 800px; margin: 2rem auto; text-align: center;">
+  <img src="https://www.anime-chiikawa.jp/images/ogp.jpg" alt="치이카와 애니메이션 공식 이미지" loading="lazy" style="display: block; width: 100%; height: auto;">
+  <figcaption>『치이카와』 애니메이션 공식 이미지. <a href="https://www.anime-chiikawa.jp/">애니메이션 공식 사이트</a> · ©ナガノ／ちいかわ製作委員会.</figcaption>
+</figure>
 
 『치이카와』는 이 작동을 일상의 규모에서 읽게 한다. 작은 존재들은 노동하고 시험을 준비하며 생존을 위협하는 상대와 맞선다.[^2] 그 조건을 인간의 현실로 옮기면 불안정한 생계와 반복되는 평가, 위험한 노동이 남는다. 그러나 둥근 몸과 짧은 울음, 서로를 위로하는 모습은 그 고통을 계속 바라볼 수 있게 만든다. 이때 귀여움이 가리는 것은 고통의 존재보다 고통스러운 세계를 거부해야 한다는 절박함이다. 관객의 관심이 그 세계의 조건에서 그 안의 존재가 무사하기를 바라는 마음으로 옮겨갈수록, 바꾸어야 할 현실은 사랑하며 지켜보는 풍경으로 남을 수 있다.
 
