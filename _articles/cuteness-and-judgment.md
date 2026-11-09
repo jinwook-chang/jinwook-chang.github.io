@@ -25,7 +25,7 @@ date: 2026-11-06
 
 <figure class="video">
   <iframe src="https://www.youtube-nocookie.com/embed/Tdg-DT8rTUQ" title="클라우디오 아라우 — 베토벤 피아노 소나타 제23번 「열정」 전곡" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>
-  <figcaption>클라우디오 아라우, 베토벤 피아노 소나타 제23번 「열정」 전곡. <a href="https://www.youtube.com/watch?v=Tdg-DT8rTUQ">YouTube에서 보기</a></figcaption>
+  <figcaption>클라우디오 아라우, 베토벤 피아노 소나타 제23번 「열정」 전곡.</figcaption>
 </figure>
 
 고리키가 전한 레닌의 음악에 대한 태도는 이 관계를 반대 방향에서 보여준다. 레닌은 베토벤의 「열정」을 들으면 아름다움을 만들어낸 사람들의 머리를 쓰다듬고 싶어져 음악을 자주 들을 수 없다고 말했다.[^3] 혁명을 수행하는 데 필요한 가혹함이 미적 감동으로 흔들린다는 인식이었다. 레닌이 정치적 결단을 유지하기 위해 감동을 경계했다면, 귀여움을 통한 가속은 바로 그 감동을 변화의 동력으로 삼는다고 읽을 수 있다. 저항하는 사람이 자신의 판단을 고수하기 어렵도록, 그가 거부해야 할 대상부터 사랑스럽게 만드는 것이다.
